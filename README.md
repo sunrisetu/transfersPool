@@ -1,4 +1,4 @@
-# 矿池中转
+# 矿池中转 长期稳定
 网络波动自动切换线路，稳定可靠，抽水千分之一
 
 stratum+ssl://f2pool.fo2pool.com:6699   鱼池ETH-SSL
