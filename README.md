@@ -13,7 +13,6 @@
 
 ### 中转服务节点  
 不想或不会自建服务器，可直接使用下面的地址  
-更多地址及常见问题可到官网查看：<a href="https://555pool.com" target="_blank">https://555pool.com</a>  
 有问题可联系微信号sx_sunrise  
 |    矿池/币种  |   ETH（TCP协议）      |   ETH（SSL加密）      |
 | ---- | ---- | ---- |
