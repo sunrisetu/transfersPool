@@ -14,6 +14,7 @@
 ### 中转服务节点  
 不想或不会自建服务器，可直接使用下面的地址  
 有问题可联系微信号sx_sunrise  
+## fo2pool 官网：http://fo2pool.com 
 |    矿池/币种  |   ETH（TCP协议）      |   ETH（SSL加密）      |
 | ---- | ---- | ---- |
 |   鱼池（f2pool.com）   |   f2pool.fo2pool.com:6688      |   f2pool.fo2pool.com:6699      |
